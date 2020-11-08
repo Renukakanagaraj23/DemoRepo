@@ -83,5 +83,8 @@ public class BaseClass {
 		return (generatedString2);
 	}
 	
+	public void test() {
+		System.out.println("Test Method");
+	}
 	
 }
